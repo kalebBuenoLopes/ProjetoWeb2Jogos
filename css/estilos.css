@@ -1,0 +1,23 @@
+#titulo{
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-image: url("../img/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+#cabecalhoLista{
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
